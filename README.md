@@ -1,4 +1,4 @@
 # coding-demo
 This is my first repository.
 <br>
-Author- Hina Butt
+Author- Hina Faiz Butt
